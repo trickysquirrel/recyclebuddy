@@ -34,8 +34,14 @@ features                                  :
     description                           : The app supports larger fonts for that than need it and also voice over for those that need to hear the interface.
     fontawesome_icon_name                 : info-circle
 
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
 # Theme Settings
-topbar_color                              : "#ffffff"
+topbar_color                              : "#000000"
 topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
