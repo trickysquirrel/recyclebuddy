@@ -10,10 +10,7 @@ playstore_link                            :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Recycle Buddy                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : FREE                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
-
-enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
-
+app_description                           : Lets this app help you to do your part and recycle more
 
 
 # Information About Yourself
@@ -25,8 +22,8 @@ email_address                             : recycle.buddy.au@gmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Information
+    description                           : The app information on over 160 items and 79 councils in Victoria with ways you can or cannot recycle them.
     fontawesome_icon_name                 : magic
     
   - title                                 : Dark Mode
