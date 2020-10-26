@@ -9,6 +9,10 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 1.0.1**
+Updating links on how to recycle paint.
+Adding quick links to colour code to access REDcycle and Terracycle.
+
 # **Version 1.0**
 This is the first update to our app. 
 Showing general information for all Victorian councils.
